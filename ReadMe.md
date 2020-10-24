@@ -1,6 +1,5 @@
 # Implementation of YOLO_v3 from Scratch
-This implementation follows Ayoosh's guide on YOLO
-_v3. Full tutorial is [here](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/).
+This implementation follows Ayoosh's guide on YOLO_v3. Full tutorial is [here](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/).
 
 ## Usage
 Run detector.py with the following parameters:
