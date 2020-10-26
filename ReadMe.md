@@ -17,4 +17,4 @@ This implementation uses the original [yolov3](https://github.com/ultralytics/yo
 With enough GPU resource, you can change this setting to be bigger.
 
 ## Sample Output
-![dog-cycle-car](https://github.com/YanZhu1105/Yolov3/blob/master/dog-cycle-car.png)
+![texting-while-crossing-street](https://github.com/YanZhu1105/Yolov3/blob/master/det/det_texting-while-crossing-street.jpg)
